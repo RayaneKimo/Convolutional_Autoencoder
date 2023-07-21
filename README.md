@@ -19,7 +19,6 @@ The goal of this project is to build an autoencoder model that can denoise image
 - [Visualizations](#visualizations)
 - [Note](#note)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
