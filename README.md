@@ -1,6 +1,6 @@
 # Autoencoder Digit Image Denoiser
 
-![Autoencoder Digit Image Denoiser](Autoencoder.jpg)
+![Autoencoder Digit Image Denoiser](Denoiser.png)
 
 ## Overview
 
@@ -70,7 +70,7 @@ To use the autoencoder digit image denoiser, follow these steps:
 
 ## Model Architecture
 
-The autoencoder model consists of two main parts: the encoder and the decoder.
+![Autoencoder Digit Image Denoiser](Autoencoder.jpg)
 
 ### Encoder:
 
