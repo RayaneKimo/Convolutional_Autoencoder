@@ -1,6 +1,6 @@
 # Autoencoder Digit Image Denoiser
 
-![Autoencoder Digit Image Denoiser](project_image.png)
+![Autoencoder Digit Image Denoiser](Autoencoder.jpg)
 
 ## Overview
 
